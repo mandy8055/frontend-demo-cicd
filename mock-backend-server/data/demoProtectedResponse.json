@@ -1,0 +1,47 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": { "title": "Ms", "first": "Marta", "last": "Ferrer" },
+      "location": {
+        "street": { "number": 1209, "name": "Calle de Bravo Murillo" },
+        "city": "Logroño",
+        "state": "Canarias",
+        "country": "Spain",
+        "postcode": 95177,
+        "coordinates": { "latitude": "-33.9948", "longitude": "85.5225" },
+        "timezone": {
+          "offset": "-8:00",
+          "description": "Pacific Time (US & Canada)"
+        }
+      },
+      "email": "marta.ferrer@example.com",
+      "login": {
+        "uuid": "a4d21673-f775-41af-a798-17e9428c14c3",
+        "username": "orangebird531",
+        "password": "milk",
+        "salt": "BBveP85C",
+        "md5": "0326e4e09044dae077982e637fe2bb12",
+        "sha1": "edbfa36a9b510522f26d7c3d6f93a3b6c1b5d73b",
+        "sha256": "8c9c3d1eb83ff4c9f67fbda62bf8521e3e425188335930670a3a6887cf602ad7"
+      },
+      "dob": { "date": "1996-09-25T23:01:14.598Z", "age": 27 },
+      "registered": { "date": "2013-08-09T03:46:02.736Z", "age": 10 },
+      "phone": "915-702-829",
+      "cell": "699-821-838",
+      "id": { "name": "DNI", "value": "60276921-P" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/28.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/28.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/28.jpg"
+      },
+      "nat": "ES"
+    }
+  ],
+  "info": {
+    "seed": "9a35676905037c8c",
+    "results": 5,
+    "page": 1,
+    "version": "1.4"
+  }
+}

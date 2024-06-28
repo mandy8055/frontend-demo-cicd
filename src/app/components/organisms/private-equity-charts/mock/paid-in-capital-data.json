@@ -1,0 +1,43 @@
+[
+  ["Buy-Out", 138819.6, ["Carlyle Equity Opportunity"]],
+  ["Credit", 81663.12, ["Sandton Credit Solutions Onshore IV"]],
+  [
+    "Direct Investments - Other",
+    26595.97,
+    [
+      "NextGen EverlyWell (Series C)",
+      "NextGen EverlyWell (Series B)",
+      "NextGen EverlyWell (Series B Reassign)"
+    ]
+  ],
+  ["Energy", 25097.14, ["EnCap Flatrock Midstream II"]],
+  ["Growth Equity", 102414, ["Tiger Global PIP XI", "Accel Leaders III"]],
+  ["Other Private Equity", 208394.26, ["Blue Water Aggregates Fund"]],
+  [
+    "Private Equity Partners",
+    1284294.58,
+    [
+      "Brown Advisory Private Equity Partners VIII (QP)",
+      "Brown Advisory Private Equity Partners V",
+      "Brown Advisory Private Equity Partners I",
+      "Brown Advisory Private Equity Partners IV",
+      "Brown Advisory Private Equity Partners III",
+      "Brown Advisory Private Equity Partners VI",
+      "Brown Advisory Private Equity Partners IX (QP)",
+      "Brown Advisory Private Equity Partners II",
+      "Brown Advisory Private Equity Partners VII (QP)"
+    ]
+  ],
+  [
+    "Real Estate",
+    402458.65,
+    [
+      "Brown Advisory Real Estate Partners I (QP)",
+      "CRC III",
+      "Brown Advisory Real Estate Partners II (QP)",
+      "CRC IV QP",
+      "Carmel Partners VI",
+      "CRC III-QP - Kenilworth"
+    ]
+  ]
+]

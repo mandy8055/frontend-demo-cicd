@@ -1,0 +1,15 @@
+.holdings_summary_grid .ag-theme-custom {
+  --ag-grid-size: 5px;
+}
+
+.holdings_summary_grid .ag-center-cols-viewport {
+  min-height: unset !important;
+}
+
+.holdings_summary_grid .ag-theme-custom .ag-row-group .ag-group-value,
+.holdings_summary_grid .ag-theme-custom .ag-group-expanded,
+.holdings_summary_grid .ag-theme-custom .ag-group-contracted {
+  height: 50px;
+  display: flex;
+  align-items: center;
+}

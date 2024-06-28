@@ -1,0 +1,107 @@
+[
+  {
+    "portfolioId": "186467",
+    "portfolioCode": "2345679",
+    "portfolioName": "FI Account",
+    "portfolioCategories": [
+      {
+        "assetCategory": "Cash & Equivalents",
+        "marketValue": 714773,
+        "percentage": 40.2,
+        "displayOrder": 1
+      },
+      {
+        "assetCategory": "Fixed Income",
+        "marketValue": 1061920,
+        "percentage": 59.8,
+        "displayOrder": 1
+      }
+    ]
+  },
+  {
+    "portfolioId": "186468",
+    "portfolioCode": "2345670",
+    "portfolioName": "Flexible Equity Account",
+    "portfolioCategories": [
+      {
+        "assetCategory": "Cash & Equivalents",
+        "marketValue": 896183,
+        "percentage": 27.2,
+        "displayOrder": 1
+      },
+      {
+        "assetCategory": "Large Cap U.S. Equities",
+        "marketValue": 2392882,
+        "percentage": 72.8,
+        "displayOrder": 1
+      }
+    ]
+  },
+  {
+    "portfolioId": "186866",
+    "portfolioCode": "4567897",
+    "portfolioName": "Alternatives Account",
+    "portfolioCategories": [
+      {
+        "assetCategory": "Cash & Equivalents",
+        "marketValue": 2266451,
+        "percentage": 17.6,
+        "displayOrder": 1
+      },
+      {
+        "assetCategory": "Large Cap U.S. Equities",
+        "marketValue": 3964213,
+        "percentage": 30.8,
+        "displayOrder": 1
+      },
+      {
+        "assetCategory": "Small/Mid Cap U.S. Equities",
+        "marketValue": 1649588,
+        "percentage": 12.8,
+        "displayOrder": 1
+      },
+      {
+        "assetCategory": "Multi-Cap U.S. Equities",
+        "marketValue": 174818,
+        "percentage": 1.4,
+        "displayOrder": 1
+      },
+      {
+        "assetCategory": "Global/Developed International",
+        "marketValue": 729988,
+        "percentage": 5.7,
+        "displayOrder": 1
+      },
+      {
+        "assetCategory": "Emerging Markets",
+        "marketValue": 451005,
+        "percentage": 3.5,
+        "displayOrder": 1
+      },
+      {
+        "assetCategory": "Real Estate",
+        "marketValue": 718556,
+        "percentage": 5.6,
+        "displayOrder": 1
+      },
+      {
+        "assetCategory": "Credit",
+        "marketValue": 130446,
+        "percentage": 1.0,
+        "displayOrder": 1
+      },
+      {
+        "assetCategory": "Private Equities",
+        "marketValue": 2100303,
+        "percentage": 16.3,
+        "displayOrder": 1
+      },
+      {
+        "assetCategory": "Hedge Funds",
+        "marketValue": 706152,
+        "percentage": 5.5,
+        "displayOrder": 1
+      }
+    ]
+  }
+]

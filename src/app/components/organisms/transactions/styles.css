@@ -1,0 +1,27 @@
+.transaction_grid .ag-theme-quartz {
+    --ag-header-background-color: #f1f4f9;
+    --ag-borders: 0px;
+    --ag-wrapper-border-radius: 0px;
+    --ag-row-hover-color: none;
+    --ag-font-family: 'Roboto'
+}
+
+.transaction_grid .ag-header{
+    border-radius: 8px;
+    padding-left: 20px;
+    padding-right: 20px;
+} 
+
+.transaction_grid .ag-center-cols-container{
+    padding-left: 20px;
+    padding-right: 20px; 
+}
+
+.transaction_grid .no-border{
+    border:none !important;
+  outline: none;
+}
+
+.transaction_grid .ag-row-last{
+    border-bottom: 0;
+}

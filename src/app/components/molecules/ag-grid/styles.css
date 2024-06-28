@@ -1,0 +1,13 @@
+.ag-theme-custom {
+  --ag-font-family: 'Roboto';
+  --ag-row-hover-color: none;
+  --ag-row-group-indent-size: 8px;
+}
+
+.ag-center-cols-viewport {
+  min-height: unset !important;
+}
+.no-border {
+  border: none !important;
+  outline: none;
+}
