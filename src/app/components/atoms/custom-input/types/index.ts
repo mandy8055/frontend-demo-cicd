@@ -5,4 +5,4 @@ interface CustomInputProps extends InputHTMLAttributes<HTMLInputElement> {
   id: string;
 }
 
-export { CustomInputProps };
+export type { CustomInputProps };

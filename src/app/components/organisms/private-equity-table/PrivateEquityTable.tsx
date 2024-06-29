@@ -29,7 +29,7 @@ const aggSum = (params: IAggFuncParams) => {
 };
 
 export const PrivateEquityTable = forwardRef<PEImperativeHandle>(
-  (props, ref) => {
+  (_props, ref) => {
     const [rowData, setRowData] = useState<PrivateEquityData[]>([]);
     const gridApi = useRef<GridApi<PrivateEquityData>>();
 

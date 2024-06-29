@@ -35,7 +35,7 @@ export default function PrivateEquity() {
     ],
   };
   const toggleHandler = (
-    e: React.MouseEvent<HTMLButtonElement, MouseEvent>,
+    _e: React.MouseEvent<HTMLButtonElement, MouseEvent>,
   ) => {
     if (peTableRef.current) {
       !collapsed ? peTableRef.current.collapse() : peTableRef.current.expand();

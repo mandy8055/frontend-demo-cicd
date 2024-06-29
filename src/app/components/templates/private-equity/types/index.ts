@@ -11,4 +11,4 @@ interface ChartDataType {
   chartData: ChartData;
 }
 
-export { ButtonRenderType, ChartDataType };
+export type { ButtonRenderType, ChartDataType };

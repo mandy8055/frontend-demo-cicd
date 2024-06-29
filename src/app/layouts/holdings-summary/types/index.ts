@@ -10,4 +10,4 @@ interface HoldingsSummaryType {
   isMultiCurrency?: boolean;
 }
 
-export { ButtonRenderType, HoldingsSummaryType };
+export type { ButtonRenderType, HoldingsSummaryType };

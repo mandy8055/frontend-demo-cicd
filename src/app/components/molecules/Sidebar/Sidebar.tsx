@@ -66,7 +66,7 @@ const SubMenu = (
 
 export default function Sidebar(props: SidebarProps) {
   const { sideNavExpanded, closeSideNav } = props;
-  const { data } = useGetPortfoliosQuery();
+  const queryResult = useGetPortfoliosQuery();
   const dispatch = useAppDispatch();
   const [showPortfolios, setShowPortfolios] = useState(false);
   const navItemClickHandler = (e: React.MouseEvent<HTMLUListElement>) => {

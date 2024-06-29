@@ -55,7 +55,7 @@ interface LoginResponse {
   username: string;
 }
 
-export {
+export type {
   AppDispatch,
   AppStore,
   AuthState,

@@ -29,4 +29,4 @@ interface AccountsRow
   portfolioCategories: PortfolioCategory[];
 }
 
-export { AccountsRow, AssetClassType, AssetKeys, PortfolioCategory };
+export type { AccountsRow, AssetClassType, AssetKeys, PortfolioCategory };

@@ -30,7 +30,7 @@ function HoldingsSummary(props: HoldingsSummaryType) {
   const selectedDate = useAppSelector(selectDate);
   const selectedDateText = `As of ${selectedDate}`;
   const expandHandler = (
-    e: React.MouseEvent<HTMLButtonElement, MouseEvent>,
+    _e: React.MouseEvent<HTMLButtonElement, MouseEvent>,
   ) => {
     if (holdingsTableRef.current) {
       !expand

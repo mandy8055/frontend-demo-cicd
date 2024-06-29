@@ -133,7 +133,7 @@ const AccountsTable = () => {
       resizable: false,
     };
   }, []);
-  const handleGridReady = (params: GridReadyEvent) => {
+  const handleGridReady = (_params: GridReadyEvent) => {
     const rowData = JSON.parse(JSON.stringify(rawData));
     const { formattedTableData: finalRowData, grandTotalRow } =
       formatRowData(rowData);
